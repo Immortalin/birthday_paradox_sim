@@ -1,0 +1,8 @@
+[package]
+name = "birthday_paradox_sim"
+version = "0.1.0"
+authors = ["Immortalin <immortalin@outlook.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6"
