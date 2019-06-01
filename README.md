@@ -11,5 +11,5 @@ Options:
 
 ```
 
-## Chart of number of birthday collisions from 0 to 100 people in room with 100 cycles 
+## Chart of number of birthday collisions from 0 to 100 people in a room through 100 iterations 
 ![Monte Carlo Graph](./graph.svg)
