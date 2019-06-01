@@ -1,0 +1,71 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(48, 364)">
+<g>
+<path d="M0,0 L0,0 L5.2525253,0 L10.505051,0 L15.757576,0 L21.010101,-3.4 L26.262627,-10.2 L31.515152,-10.2 L36.767677,-30.6 L42.020203,-27.2 L47.272728,-47.6 L52.525253,-37.4 L57.77778,-57.8 L63.030304,-68 L68.28283,-61.2 L73.535355,-61.2 L78.78788,-74.8 L84.040405,-105.4 L89.29293,-95.2 L94.545456,-129.2 L99.79798,-119 L105.05051,-149.6 L110.30303,-112.2 L115.55556,-139.4 L120.80808,-149.6 L126.06061,-193.8 L131.31313,-200.6 L136.56566,-224.4 L141.81818,-214.2 L147.07071,-227.8 L152.32323,-234.6 L157.57576,-234.6 L162.82828,-265.2 L168.08081,-244.8 L173.33333,-272 L178.58586,-292.4 L183.83838,-255 L189.09091,-282.2 L194.34343,-278.8 L199.59596,-285.6 L204.84848,-306 L210.10101,-295.8 L215.35353,-306 L220.60606,-319.6 L225.85858,-316.2 L231.11111,-323 L236.36363,-316.2 L241.61617,-326.4 L246.86868,-312.8 L252.12122,-326.4 L257.37375,-333.2 L262.62625,-329.8 L267.87878,-336.6 L273.13132,-323 L278.38385,-340 L283.63635,-336.6 L288.8889,-333.2 L294.14142,-340 L299.39395,-340 L304.64645,-340 L309.899,-336.6 L315.15152,-340 L320.40405,-340 L325.65656,-340 L330.9091,-340 L336.16162,-336.6 L341.41415,-336.6 L346.66666,-340 L351.9192,-340 L357.17172,-340 L362.42426,-340 L367.67676,-340 L372.9293,-340 L378.18182,-340 L383.43436,-340 L388.68686,-340 L393.9394,-340 L399.19193,-340 L404.44446,-340 L409.69696,-340 L414.9495,-340 L420.20203,-340 L425.45456,-340 L430.70706,-340 L435.9596,-340 L441.21213,-340 L446.46466,-340 L451.71716,-340 L456.9697,-340 L462.22223,-340 L467.47476,-340 L472.72726,-340 L477.9798,-340 L483.23233,-340 L488.48486,-340 L493.73737,-340 L498.9899,-340 L504.24243,-340 L509.49496,-340 L514.7475,-340 L520,-340" fill="none" stroke="burlywood" stroke-width="2"/>
+</g>
+<g>
+<g>
+<line stroke="black" stroke-width="1" x1="99.79797979797979" x2="99.79797979797979" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="204.84848484848484" x2="204.84848484848484" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="309.8989898989899" x2="309.8989898989899" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="414.949494949495" x2="414.949494949495" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="520" x2="520" y1="0" y2="10"/>
+</g>
+<line stroke="black" stroke-width="1" x1="0" x2="520" y1="0" y2="0"/>
+<g>
+<text font-size="12" text-anchor="middle" x="99.79797979797979" y="20">
+20
+</text>
+<text font-size="12" text-anchor="middle" x="204.84848484848484" y="20">
+40
+</text>
+<text font-size="12" text-anchor="middle" x="309.8989898989899" y="20">
+60
+</text>
+<text font-size="12" text-anchor="middle" x="414.949494949495" y="20">
+80
+</text>
+<text font-size="12" text-anchor="middle" x="520" y="20">
+100
+</text>
+</g>
+<text font-size="12" text-anchor="middle" x="260" y="30">
+Number of people in room
+</text>
+</g>
+<g>
+<g>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="0" y2="0"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-68" y2="-68"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-136" y2="-136"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-204.00000000000003" y2="-204.00000000000003"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-272" y2="-272"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-340" y2="-340"/>
+</g>
+<line stroke="black" stroke-width="1" x1="0" x2="0" y1="0" y2="-340"/>
+<g>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="0">
+0
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-68">
+0.2
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-136">
+0.4
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-204.00000000000003">
+0.6000000000000001
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-272">
+0.8
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-340">
+1
+</text>
+</g>
+<text font-size="12" text-anchor="middle" transform="rotate(-90 -30 -170)" x="-30" y="-170">
+Probability of having the same birthday
+</text>
+</g>
+</g>
+</svg>
