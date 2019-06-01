@@ -53,13 +53,13 @@ fn main() {
         probability_list.push((i as f64 + 1., run_simulation(i, cycles)));
     }
 
+    // ==== Plotting ====
     let l = plotlib::line::Line::new(&probability_list)
         .style(plotlib::line::Style::new().colour("burlywood"));
     // Line.style::new().colour("#35c788")
 
     let v = ContinuousView::new()
         .add(&l)
-        // .add(&s2)
         .x_range(1., number_of_people as f64)
         .y_range(0., 1.)
         .x_label("Number of people in room")
@@ -68,9 +68,10 @@ fn main() {
     // A page with a single view is then saved to an SVG file
     let graph_name = "graph.svg";
     match Page::single(&v).save(graph_name) {
-        Ok(_) => println!("Graph saved to graph_name"),
+        Ok(_) => println!("Graph saved to {}",graph_name),
         Err(_) => eprintln!("Graph creation failure!"),
     }
+    // ==== End Plotting and Program ====
 }
 
 fn run_simulation(number_of_people: i64, cycles: i64) -> f64 {
